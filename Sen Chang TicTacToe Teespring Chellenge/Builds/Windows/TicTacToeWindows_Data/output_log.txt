@@ -1,0 +1,56 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Programming\Sen Chang TicTacToe Teespring Chellenge\Builds\Windows\TicTacToeWindows_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Programming\Sen Chang TicTacToe Teespring Chellenge\Builds\Windows\TicTacToeWindows_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Programming\Sen Chang TicTacToe Teespring Chellenge\Builds\Windows\TicTacToeWindows_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Programming\Sen Chang TicTacToe Teespring Chellenge\Builds\Windows\TicTacToeWindows_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\Programming\Sen Chang TicTacToe Teespring Chellenge\Builds\Windows\TicTacToeWindows_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Programming\Sen Chang TicTacToe Teespring Chellenge\Builds\Windows\TicTacToeWindows_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.040 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+Platform assembly: D:\Programming\Sen Chang TicTacToe Teespring Chellenge\Builds\Windows\TicTacToeWindows_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Programming\Sen Chang TicTacToe Teespring Chellenge\Builds\Windows\TicTacToeWindows_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 2.664718 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 242.
+Total: 0.442195 ms (FindLiveObjects: 0.008980 ms CreateObjectMapping: 0.006842 ms MarkObjects: 0.132145 ms  DeleteObjects: 0.002565 ms)
+
+UnloadTime: 0.571347 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 164.
+Total: 0.429793 ms (FindLiveObjects: 0.005987 ms CreateObjectMapping: 0.006414 ms MarkObjects: 0.123592 ms  DeleteObjects: 0.018389 ms)
+
+UnloadTime: 0.527298 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 242.
+Total: 0.428938 ms (FindLiveObjects: 0.007697 ms CreateObjectMapping: 0.006414 ms MarkObjects: 0.142836 ms  DeleteObjects: 0.002138 ms)
+
+UnloadTime: 0.517462 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 164.
+Total: 0.431931 ms (FindLiveObjects: 0.005987 ms CreateObjectMapping: 0.005987 ms MarkObjects: 0.120171 ms  DeleteObjects: 0.018389 ms)
+
+UnloadTime: 0.458873 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 242.
+Total: 0.449037 ms (FindLiveObjects: 0.008553 ms CreateObjectMapping: 0.007270 ms MarkObjects: 0.149251 ms  DeleteObjects: 0.002565 ms)
+
+UnloadTime: 0.572630 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 164.
+Total: 0.465716 ms (FindLiveObjects: 0.005987 ms CreateObjectMapping: 0.007697 ms MarkObjects: 0.163791 ms  DeleteObjects: 0.026942 ms)
+
